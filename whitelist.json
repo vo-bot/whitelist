@@ -8,6 +8,18 @@
         "Accounts": []
     },
     {
+        "Rank": "INF",
+        "Attackable": false,
+        "TagText": "Erco",
+        "TagColor": "0047AB",
+        "TagHidden": false,
+        "Accounts": [
+            null,
+            "Erchobg",
+            "Ercobg6"
+        ] 
+    },
+    {
         "Rank": "BOOSTER",
         "Attackable": false,
         "TagText": "RENDER BOOSTER",
