@@ -10,6 +10,17 @@
     {
         "Rank": "INF",
         "Attackable": false,
+        "TagText": "SALAD",
+        "TagColor": "A020F0",
+        "TagHidden": false,
+        "Accounts": [
+            null,
+            "bestyapperfrfr"
+        ]
+    },
+    {
+        "Rank": "INF",
+        "Attackable": false,
         "TagText": "VOIDWARE OWNER",
         "TagColor": "0047AB",
         "TagHidden": false,
