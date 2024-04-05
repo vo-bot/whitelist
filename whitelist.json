@@ -19,20 +19,6 @@
         ]
     },
     {
-        "Rank": "INF",
-        "Attackable": false,
-        "TagText": "VOIDWARE OWNER",
-        "TagColor": "0047AB",
-        "TagHidden": false,
-        "Accounts": [
-            null,
-            "Ercobg6",
-            "Ercobg7",
-            "Erchobg",
-            "Ercobg8"
-        ] 
-    },
-    {
         "Rank": "BOOSTER",
         "Attackable": false,
         "TagText": "RENDER BOOSTER",
